@@ -1,0 +1,36 @@
+// .worldmap{
+//     top: 120;
+//     left: 120;
+//     border-color: "black";
+// }
+
+// .heatmap{
+//     top: 120;
+//     left: 120;
+// }
+
+.graticule {
+    fill: none; 
+    // stroke: #777;
+    stroke: brown;
+    stroke-width: .5px;
+    stroke-opacity: .5;
+  }
+
+  .fill {
+    fill: #fff;
+  }
+
+  .land {
+    //fill: #222;
+    fill: darkblue;
+  }
+  
+  .boundary {
+    fill: none;
+    // stroke: #fff;
+    stroke:aqua;
+    stroke-width: .5px;
+  }
+
+  

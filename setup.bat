@@ -1,0 +1,1 @@
+set PATH=D:\MyData\software\nodejs;%PATH%;C:\Users\%USERNAME%\AppData\Roaming\npm; 
